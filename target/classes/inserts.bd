@@ -1,0 +1,9 @@
+INSERT INTO client (id, email, name) VALUES(1,'a@a.com', 'Client A')
+INSERT INTO client (id, email, name) VALUES(2,'b@b.com', 'Client B')
+INSERT INTO client (id, email, name) VALUES(3,'c@c.com', 'Client C')
+
+INSERT INTO product (id, name, amount) VALUES(1,'Bone', 25)
+INSERT INTO product (id, name, amount) VALUES(2,'Calca', 95)
+INSERT INTO product (id, name, amount) VALUES(3,'Bermuda', 75)
+INSERT INTO product (id, name, amount) VALUES(4,'Camisa', 50)
+INSERT INTO product (id, name, amount) VALUES(5,'Tenis', 150)
